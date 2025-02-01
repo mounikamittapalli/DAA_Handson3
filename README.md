@@ -1,14 +1,14 @@
 # DAA_Handson3
 
-1.The outer loop runs n times
-for each outer loop iteration, the inner loop runs n times.
-Thus, the total number of iterations of the inner loop is n^2
-t(n)=n^2 times
-total operations: i=1∑n j=1∑n 1
+1.The outer loop runs n times_
+for each outer loop iteration, the inner loop runs n times_
+Thus, the total number of iterations of the inner loop is n^2_
+T(n)=n^2 times
+Total operations: i=1∑n j=1∑n 1
 
 
 2.please check code of [function.py](https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/function.py)
-output[https://github.com/mounikamittapalli/DAA_Handson3/blob/379f43506b3740e1057704a24f3ac982f44e8bb5/function.png
+[output](https://github.com/mounikamittapalli/DAA_Handson3/blob/379f43506b3740e1057704a24f3ac982f44e8bb5/function.png)
 
 3.**big-o (upper bound)**: The function is upper bounded by 𝑂(𝑛^2)
                         o(n^2) meaning that the algorithm will never take more than quadratic time.
@@ -31,7 +31,6 @@ https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d
 
 Answer: It will slightly increase the runtime, but it won't change the big-O complexity.
 
-6.please check code of **merge_sort**
-(https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/merge_sort.py)
+6.please check code of [merge_sort]https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/merge_sort.py)
 
 
