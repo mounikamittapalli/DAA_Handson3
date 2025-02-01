@@ -1,13 +1,13 @@
 # DAA_Handson3
 
-1.The outer loop runs n times_
-for each outer loop iteration, the inner loop runs n times_
-Thus, the total number of iterations of the inner loop is n^2_
-T(n)=n^2 times
+1.The outer loop runs n times<br/>
+for each outer loop iteration, the inner loop runs n times<br/>
+Thus, the total number of iterations of the inner loop is n^2<br/>
+T(n)=n^2 times<br/>
 Total operations: i=1∑n j=1∑n 1
 
 
-2.please check code of [function.py](https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/function.py)< br / >
+2.please check code of [function.py](https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/function.py)<br/>
 [output](https://github.com/mounikamittapalli/DAA_Handson3/blob/379f43506b3740e1057704a24f3ac982f44e8bb5/function.png)
 
 3.**big-o (upper bound)**: The function is upper bounded by 𝑂(𝑛^2)
@@ -19,7 +19,7 @@ Total operations: i=1∑n j=1∑n 1
                          by n^2
                          we can say θ(𝑛^2)
 
-4.please check code of  [Function2.py](
+4.please check code of  [unction2.py](
 https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/function2.py)
 [output](https://github.com/mounikamittapalli/DAA_Handson3/blob/379f43506b3740e1057704a24f3ac982f44e8bb5/function2.png)
 
