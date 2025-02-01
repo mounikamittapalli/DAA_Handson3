@@ -13,8 +13,7 @@ t(n)=n^2 times
 total operations: i=1∑n j=1∑n 1
 
 
-2.please check code of function.py (/users/mounika/pycharmprojects/daa_handson3/function.py)
-
+2.please check code of function.py (function.py)
 3.big-o (upper bound): the function is upper bounded by 𝑂(𝑛^2)
 o(n^2) meaning that the algorithm will never take more than quadratic time.
 big-omega (lower bound):since the runtime will always be proportional to n^2 or greater (even in the best case), we have:
