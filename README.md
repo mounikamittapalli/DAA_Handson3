@@ -15,7 +15,7 @@ Total operations: i=1∑n j=1∑n 1
 [output](https://github.com/mounikamittapalli/DAA_Handson3/blob/379f43506b3740e1057704a24f3ac982f44e8bb5/function.png)
 
 3.**big-o (upper bound)**: The function is upper bounded by 𝑂(𝑛^2)<br/>
-  *Tabspace* *Tabspace**Tabspace*o(n^2) meaning that the algorithm will never take more than quadratic time.<br/>
+ *Tabspace**Tabspace**Tabspace*o(n^2) meaning that the algorithm will never take more than quadratic time.<br/>
 **big-omega (lower bound)**:since the runtime will always be proportional to n^2 or greater (even in the best case)<br/>
  *Tabspace* *Tabspace* *Tabspace*so time complexity is ω(𝑛^2)<br/>
 **big-theta (tight bound):** big-theta represents the exact asymptotic behavior.since the polynomial fitting shows that the time complexity is dominated by n^2 <br/>
