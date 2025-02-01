@@ -7,7 +7,7 @@ T(n)=n^2 times
 Total operations: i=1∑n j=1∑n 1
 
 
-2.please check code of [function.py](https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/function.py)
+2.please check code of [function.py](https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/function.py)< br / >
 [output](https://github.com/mounikamittapalli/DAA_Handson3/blob/379f43506b3740e1057704a24f3ac982f44e8bb5/function.png)
 
 3.**big-o (upper bound)**: The function is upper bounded by 𝑂(𝑛^2)
