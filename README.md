@@ -21,10 +21,12 @@ big-omega (lower bound):since the runtime will always be proportional to n^2 or 
 big-theta (tight bound): big-theta represents the exact asymptotic behavior. since the polynomial fitting shows that the time complexity is dominated by
  we can say:θ(𝑛^2)
 
-4.please check code of function2.py (/users/mounika/pycharmprojects/daa_handson3/function2.py)
+4.please check code of function2.py (/users/mounika/pycharmprojects/daa_handson3/function2.py)https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/Function2.py
 
 5.please check code of function3.py (/users/mounika/pycharmprojects/daa_handson3/function3.py)
 
 6.please check code of merge_sort.py (/users/mounika/pycharmprojects/daa_handson3/merge_sort.py)
+
+https://github.com/mounikamittapalli/DAA_Handson3/blob/268969d220afdcb5fd249724d8bc4be00dfb515c/Function2.py
 
 
